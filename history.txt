@@ -1,0 +1,39 @@
+    1  git --version
+    2  pwd
+    3  git status
+    4  cd "E:\GIT"
+    5  pwd
+    6  init
+    7  git init
+    8  git status
+    9  git add "NOTEWORD.txt"
+   10  git add "NOTEgit.txt"
+   11  git add"WORDGIT.docx"
+   12  git add"WORDGIT.DOCX"
+   13  git add"WORDGIT.DOX"
+   14  git add"WORDGIT.DOC"
+   15  git add"WORDGIT.doc"
+   16  git add "WORDGIT.docx"
+   17  git add "EXCELGIT.xlsx"
+   18  git status
+   19  git add "NOTEGIT.txt"
+   20  git status
+   21  git commit -m "complete"
+   22  git config --global user.email "harishkowsalya2005@gmail.com"
+   23  git config --global usrer.name "Harishchinnathambi"
+   24  git commit -m "complete"
+   25  git remote add origin https://github.com/Harishchinnathambi/-harishgit.git
+   26  git push -u origin master
+   27  git status
+   28  git status
+   29  pwd
+   30  git push
+   31  git push -u orgin master
+   32  git add "WORDGIT.DOCX"
+   33  git add "WORDGIT.docx"
+   34  git status
+   35  pwd
+   36  cd "E:\GIT"
+   37  git status
+   38  git push -u origin master
+   39  history>>history.txt
